@@ -1,0 +1,10 @@
+[
+  {"event": "John joined the company", "time": 2020},
+  {"event": "John was promoted to manager", "time": 2022},
+  {"event": "John attended a conference", "time": 2023},
+  {"event": "John left the company", "time": 2024},
+  {"event": "Alice started working", "time": 2021},
+  {"event": "Alice got a raise", "time": 2023},
+  {"event": "Bob joined the team", "time": 2022},
+  {"event": "Bob became team lead", "time": 2024}
+]
